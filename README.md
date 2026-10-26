@@ -12,3 +12,4 @@ Bioinformatics @ TU Munich & LMU Munich · machine learning for science
 - [**protein-alignment-server**](https://github.com/SiljaOh/protein-alignment-server): Gotoh, Smith-Waterman and free-shift alignment with HOMSTRAD validation and gap-parameter tuning
 - [**othello-ai**](https://github.com/SiljaOh/Othello-): bitboard Othello engine with negamax and alpha-beta pruning, perft-verified to depth 9, 97 % wins against baselines
 - [**loadpath**](https://github.com/SiljaOh/loadpath): generates 3D-printable, FEA-checked brackets from a few parameters; the basis of our SF hackathon project Protofit
+- [**needleman-wunsch**](https://github.com/SiljaOh/needleman-wunsch): global protein sequence alignment in Java with BLOSUM62 and traceback
