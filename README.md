@@ -44,7 +44,7 @@ Full-vehicle crash simulations take hours to days per design. We train neural su
 | [**rt-prediction**](https://github.com/SiljaOh/rt-prediction) | 🏆 Winning model for peptide retention time: ExtraTrees on physicochemical features + per-run calibration, MAE 2.78 min on 73,782 peptides | Python, scikit-learn |
 | [**protein-structure-prediction**](https://github.com/SiljaOh/protein-structure-prediction) | GOR I–V secondary structure prediction (67.1 % Q3 on CB513) and pairwise alignment, from scratch | Java, Python |
 | [**needleman-wunsch**](https://github.com/SiljaOh/needleman-wunsch) | Global protein sequence alignment with BLOSUM62, traceback and tests: my first alignment implementation (Jan 2025) | Java |
-| [**bioinformatics-toolkit**](https://github.com/SiljaOh/bioinformatics-toolkit) | Alignment web server: Gotoh, Smith-Waterman, free-shift; HOMSTRAD validation and gap-parameter tuning | Java, Python, MariaDB |
+| [**protein-alignment-server**](https://github.com/SiljaOh/protein-alignment-server) | Alignment web server: Gotoh, Smith-Waterman, free-shift; HOMSTRAD validation and gap-parameter tuning | Java, Python, MariaDB |
 
 ## 🛠️ Toolbox
 
