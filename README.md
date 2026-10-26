@@ -14,5 +14,5 @@ Bioinformatics @ TU Munich & LMU Munich · machine learning for science
 <a href="https://github.com/SiljaOh/protein-alignment-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiljaOh&repo=protein-alignment-server&theme=github_dark&hide_border=true" width="49%" alt="protein-alignment-server"></a>
 <a href="https://github.com/SiljaOh/rt-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiljaOh&repo=rt-prediction&theme=github_dark&hide_border=true" width="49%" alt="rt-prediction"></a>
 <a href="https://github.com/SiljaOh/loadpath"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiljaOh&repo=loadpath&theme=github_dark&hide_border=true" width="49%" alt="loadpath"></a>
-<a href="https://github.com/SiljaOh/Othello-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiljaOh&repo=Othello-&theme=github_dark&hide_border=true" width="49%" alt="Othello-"></a>
+<a href="https://github.com/bkan239/openEyes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bkan239&repo=openEyes&theme=github_dark&hide_border=true&show_owner=true" width="49%" alt="openEyes"></a>
 </p>
