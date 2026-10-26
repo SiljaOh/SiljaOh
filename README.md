@@ -8,3 +8,4 @@ Bioinformatics @ TU Munich & LMU Munich · machine learning for science
 **Selected projects**
 
 - [**rt-prediction**](https://github.com/SiljaOh/rt-prediction): winning solution of the TUM peptide retention time challenge, ExtraTrees + per-run calibration (MAE 2.78 min)
+- [**protein-structure-prediction**](https://github.com/SiljaOh/protein-structure-prediction): GOR I–V secondary structure prediction from scratch in Java, 67.1 % Q3 on CB513
