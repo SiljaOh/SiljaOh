@@ -7,3 +7,12 @@ Bioinformatics @ TU Munich & LMU Munich · machine learning for science
 🧪 Machine learning for proteomics with the Computational Mass Spectrometry group of Prof. Mathias Wilhelm (TUM): peptide collision cross section and retention time prediction
 
 🎓 Cusanuswerk scholar · 📐 Teaching Assistant, Linear Algebra (TUM)
+
+<p>
+<a href="https://github.com/SiljaOh/rt-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiljaOh&repo=rt-prediction&theme=github_dark&hide_border=true" width="49%" alt="rt-prediction"></a>
+<a href="https://github.com/SiljaOh/protein-structure-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiljaOh&repo=protein-structure-prediction&theme=github_dark&hide_border=true" width="49%" alt="protein-structure-prediction"></a>
+<a href="https://github.com/SiljaOh/protein-alignment-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiljaOh&repo=protein-alignment-server&theme=github_dark&hide_border=true" width="49%" alt="protein-alignment-server"></a>
+<a href="https://github.com/SiljaOh/loadpath"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiljaOh&repo=loadpath&theme=github_dark&hide_border=true" width="49%" alt="loadpath"></a>
+<a href="https://github.com/SiljaOh/Othello-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiljaOh&repo=Othello-&theme=github_dark&hide_border=true" width="49%" alt="Othello-"></a>
+<a href="https://github.com/SiljaOh/needleman-wunsch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiljaOh&repo=needleman-wunsch&theme=github_dark&hide_border=true" width="49%" alt="needleman-wunsch"></a>
+</p>
