@@ -11,3 +11,4 @@ Bioinformatics @ TU Munich & LMU Munich · machine learning for science
 - [**protein-structure-prediction**](https://github.com/SiljaOh/protein-structure-prediction): GOR I–V secondary structure prediction from scratch in Java, 67.1 % Q3 on CB513
 - [**protein-alignment-server**](https://github.com/SiljaOh/protein-alignment-server): Gotoh, Smith-Waterman and free-shift alignment with HOMSTRAD validation and gap-parameter tuning
 - [**othello-ai**](https://github.com/SiljaOh/Othello-): bitboard Othello engine with negamax and alpha-beta pruning, perft-verified to depth 9, 97 % wins against baselines
+- [**loadpath**](https://github.com/SiljaOh/loadpath): generates 3D-printable, FEA-checked brackets from a few parameters; the basis of our SF hackathon project Protofit
