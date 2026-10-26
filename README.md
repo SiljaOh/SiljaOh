@@ -13,7 +13,7 @@
 ## 🔬 Current research: MIT DeCoDE Lab
 
 **Student Researcher · Massachusetts Institute of Technology · since May 2026**
-*Geometric deep learning surrogates for car crash simulation · supervised by Mohamed Elrefaie (MIT)*
+*Geometric deep learning surrogates for car crash simulation · supervised by Mohamed Elrefaie (MIT) · via the [TUM.ai](https://www.tum-ai.com) Research Track*
 
 Full-vehicle crash simulations take hours to days per design. We train neural surrogates that predict the complete crash sequence in seconds. Our **hierarchical model** splits the vehicle into its semantic parts, encodes each part's 3D geometry, passes messages across part interfaces, applies physics-based self-attention and decodes the deformation over time.
 
